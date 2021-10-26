@@ -42,7 +42,7 @@ const quizdata = [
     {
         question: "Show me the place <u class = 'under'>where you put those lemons</u>.",
         options: ["noun clause", "adverb clauses", "adjective clause"],
-        answer: "adjective clauses",
+        answer: "adjective clause",
         correct: 3
     },
     {
@@ -60,7 +60,7 @@ const quizdata = [
     {
         question: "The police have caught the man <u class = 'under'>who committed the theft last night</u>.",
         options: ["noun clause", "adverb clauses", "adjective clause"],
-        answer: "adjective clauses",
+        answer: "adjective clause",
         correct: 3
     },
     {
